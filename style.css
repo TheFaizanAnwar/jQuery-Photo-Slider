@@ -1,0 +1,47 @@
+body{
+  font-family: 'Helvetica Neue';
+  background-color: #efefef;
+  font-size:150%;}
+  
+a{color: blue;}
+
+.main-class{
+width: 500px;
+margin: auto;
+background-color: white;
+border: 1px solid #ddd;
+padding: 10px;}
+
+.header{
+padding: 15px;
+font-size: 110%;
+background-color: #47AD54;
+color: #fff;}
+
+.slider{
+  margin-top: 10px;
+  width: 500px;
+  overflow: hidden;
+}
+
+.slider ul {
+  list-style: none;
+  width: 500px;
+  position: relative;
+  left: 0px;
+  padding: 0;
+  margin: 0;
+}
+
+.slider ul li{
+  float:left;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
